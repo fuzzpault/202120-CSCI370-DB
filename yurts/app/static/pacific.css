@@ -1,0 +1,44 @@
+
+
+.title {
+  background-image: url("/images/sunset.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+  padding: 1rem;
+  margin: 0;
+}
+
+h2 {
+  color: rgba(74, 211, 216);
+}
+
+h3 {
+	color: rgba(24, 81, 86);
+}
+
+ul{
+	margin: 0;
+	list-style-image: url('/images/marker.gif');
+}
+
+
+td {
+  background-color: rgba(74, 211, 216, 0.582);
+}
+
+.navbar {
+  background-color: rgb(111,194,224);
+  padding: 0.3em;
+}
+
+address{
+	font-style: normal;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+p{
+	padding-left: 1em;
+}
+
