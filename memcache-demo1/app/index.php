@@ -28,6 +28,15 @@
     }
      //echo "version: <br>",var_dump($mem->getVersion());
      //echo "stats: <br>", var_dump($mem->getStats());
+
+    $mem->add("counter",0);
+    /*$curvalue = $mem->get("counter");
+    if($curvalue !== FALSE){
+      $mem->set("counter", $curvalue + 1);
+    };*/
+    $mem->increment("counter");
+
+    echo "Counter: ". $mem->get("counter"). "<br>";
     ?>
 
     
