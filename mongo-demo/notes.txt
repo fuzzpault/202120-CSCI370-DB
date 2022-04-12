@@ -1,0 +1,9 @@
+https://hub.docker.com/_/mongo
+
+https://www.php.net/manual/en/class.mongodb-driver-query.php
+
+https://www.mongodb.com/products/compass
+
+https://kb.objectrocket.com/mongo-db/how-to-insert-mongodb-document-using-php-277
+
+https://www.mongodb.com/docs/manual/crud/
